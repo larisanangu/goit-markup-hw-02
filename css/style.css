@@ -11,7 +11,7 @@ ul {
 
 .logo
 {
-  font-family: 'Raleway';
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -95,7 +95,10 @@ color: #FFFFFF;
 cursor:pointer;
 }
 
-.button:hover:focus {
+.button:hover {
+background: #404BBF;
+}
+.button:focus {
 background: #404BBF;
 }
 
@@ -128,6 +131,8 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
+color:#2E2F42;
 }
 
 .team-member{
@@ -137,8 +142,9 @@ background-color: #FFFFFF
 .team-small-title {
 font-weight: 500;
 font-size: 20px;
-line-height: 1.2px;
+line-height: 1.2;
 letter-spacing: 0.02em;
+color:#2E2F42;
 }
 
 .team-paragraf {
@@ -151,11 +157,12 @@ color: #434455;
 .portfolio-title {
 font-size: 36px;
 line-height: 1.11;
-text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color:#2E2F42;
+text-align: center;
 }
+
 .portfolio-small-title {
 font-weight: 500;
 font-size: 20px;
@@ -176,7 +183,7 @@ background-color:#2e2f42;
 }
 
 .footer-logo {
-font-family: 'Raleway';
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 18px;
