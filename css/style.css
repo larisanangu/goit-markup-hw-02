@@ -74,7 +74,6 @@ background-color: #2E2F42;
 }
 
 .hero-title {
-font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
 color: #FFFFFF;
@@ -89,7 +88,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #FFFFFF;
-cursor:pointer;
 }
 
 .button:hover {
@@ -119,7 +117,6 @@ background-color: #F4F4FD;
 }
 
 .team-title {
-font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
@@ -157,7 +154,6 @@ text-align: center;
 }
 
 .portfolio-small-title {
-font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
